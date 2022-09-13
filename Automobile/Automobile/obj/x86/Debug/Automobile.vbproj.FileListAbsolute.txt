@@ -1,0 +1,20 @@
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.Form1.resources
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.Resources.resources
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.NovaMarka.resources
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.vbproj.GenerateResource.Cache
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\bin\Debug\Automobile.exe
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\bin\Debug\Automobile.xml
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.exe
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.xml
+C:\Users\Artan Sulejmani\AppData\Local\Temporary Projects\Automobile\obj\x86\Debug\Automobile.pdb
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.exe
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.xml
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.pdb
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\bin\Debug\Automobile.exe
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\bin\Debug\Automobile.pdb
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\bin\Debug\Automobile.xml
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.Form1.resources
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.Resources.resources
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.NovaMarka.resources
+C:\Users\Artan Sulejmani\documents\visual studio 2010\Projects\Automobile\Automobile\obj\x86\Debug\Automobile.vbproj.GenerateResource.Cache
